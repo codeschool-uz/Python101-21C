@@ -1,2 +1,2 @@
 # Python101-21C
-Homework for Python course
+Homework for Python foundation course
