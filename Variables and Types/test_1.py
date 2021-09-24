@@ -1,17 +1,11 @@
-def greet(name):
-    print('Hello ', name)
-
+# from asserts import assert_true, assert_equal
+import unittest
 from unittest.mock import patch
-
-@patch('builtins.print')
-def test_greet(mock_print):
-    # The actual test
-    greet('John')
-    mock_print.assert_called_with('Hello ', 'John')
-    greet('Eric')
-    mock_print.assert_called_with('Hello ', 'Eric')
-
-    # Showing what is in mock
-    import sys
-    sys.stdout.write(str( mock_print.call_args ) + '\n')
-    sys.stdout.write(str( mock_print.call_args_list ) + '\n')
+from io import StringIO
+class Test(unittest.TestCase):
+    
+    def test_begin_1(self):
+        with patch('sys.stdout', new=StringIO()) as fake_output:
+            import begin_1
+            actual = fake_output.getvalue().strip()
+            self.assertEqual(actual, 'Hello World')
