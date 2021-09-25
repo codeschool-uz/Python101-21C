@@ -1,5 +1,9 @@
-# a, b, c,d  o'zgaruvchilarga 8, 3, 2, 4 butun sonlarni taminlang
-# K o'zgaruvchiga quyidagi ifodani natijasini taminlab K ni chiqaring: K =  a + b - c * d
+# a o'zgaruvchiga 8 ni taminlang;
+# b o'zgaruvchiga 3 ni taminlang;
+# c o'zgaruvchiga 2 ni taminlang;
+# d o'zgaruvchiga 4 ni taminlang;
+# K =  a + b - c * d;
+# Natijani chop eting;
 
 a = 
 b = 

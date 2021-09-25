@@ -1,5 +1,9 @@
-# a, b, c o'zgaruvchilarga 24, 3, 5 butun sonlarni taminlang
-# K o'zgaruvchiga quyidagi ifodani natijasini taminlab K ni chiqaring: K =  a - b + c
+# a o'zgaruvchiga 24 ni taminlang;
+# b o'zgaruvchiga 3 ni taminlang;
+# c o'zgaruvchiga 5 ni taminlang;
+# Quyidagi ifodani K ga taminglang;
+# K =  a - b + c;
+# Natijani chop eting;
 
 a = 
 b = 
