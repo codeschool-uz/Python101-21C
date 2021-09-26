@@ -1,4 +1,6 @@
-# a o'zgaruvchiga 12 ni b o'zgaruvchiga 3 ni taminlab a ni b ga bo'linmasini toping
+# a o'zgaruvchiga 12 ni taminlang;
+# b o'zgaruvchiga 3 ni taminlang;
+# a ni b ga bo'lgandagi natijani chop eting;
 
 a = 
 b = 

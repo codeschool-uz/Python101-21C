@@ -1,4 +1,6 @@
-# a o'zgaruvchiga 6 ni b o'zgaruvchiga 8 ni taminlab ko'paytmani toping
+# a o'zgaruvchiga 6 ni taminlang;
+# b o'zgaruvchiga 8 ni taminlang;
+# a va b o'zgaruvchilar ko'paytmasini chop eting;
 
 a = 
 b = 
