@@ -135,7 +135,7 @@ Ikki xonali butun  son berilgan. Uning raqamlari yig'indisi va raqamlari ko'payt
 |81             |9  8              |
 
 # Integer12
-Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/gif.latex?\(2n+3)^{2}"/>. (**pow** funksiyasidan foydalaning).\
+Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/gif.latex?\(2n+3)^{2}"/>. (**pow** funksiyasidan foydalaning).
 
 **Input**:*n (int)*.\
 **Output**: *Natijani chiqaring (int)*.
@@ -146,7 +146,7 @@ Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/g
 
 
 # Integer13
-Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/gif.latex?\(\frac{3+n}{2})^{2}"/>. (**pow** funksiyasidan foydalaning).\
+Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/gif.latex?\(\frac{3+n}{2})^{2}"/>. (**pow** funksiyasidan foydalaning).
 
 **Input**:*n (int)*.\
 **Output**: *Natijani chiqaring (float)*.
@@ -156,7 +156,7 @@ Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/g
 |5              |16.0              |
 
 # Integer14
-Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/gif.latex?n^{x}+6^{x}"/>. (**pow** funksiyasidan foydalaning).\
+Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/gif.latex?n^{x}+6^{x}"/>. (**pow** funksiyasidan foydalaning).
 
 **Input**:*n,x (int)*.\
 **Output**: *Natijani chiqaring (float)*.
@@ -167,7 +167,7 @@ Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/g
 
 # Integer15
 Berilgan sonning (*absolyut*) qiymatini toping. 
-(abs() funksiyasidan foydalaning )\
+(abs() funksiyasidan foydalaning).
 
 **Input**:*n,x (int)*.\
 **Output**: *Natijani chiqaring (int)*.
@@ -176,3 +176,64 @@ Berilgan sonning (*absolyut*) qiymatini toping.
 |---------------|------------------|
 |-8             |8                 |
 |-56            |56                |
+
+# Integer16
+
+m soni berilgan 2 xona birlikda yaxlitlang. 
+(round() funksiyasidan foydalaning).
+
+**Input**:*m (float)*.\
+**Output**: *Natijani chiqaring (flaot)*.
+
+|   **Input**   |    **Output**    |
+|---------------|------------------|
+|3.456          |3.46              |
+|5.678          |5.68              |
+
+# Integer17
+
+Berilgan ifodaning natijasini chiqaring:  <img src="https://latex.codecogs.com/gif.latex?x^{4}+5x^{2}+x^{3}y"/>.
+(pow() funksiyasidan foydalaning).
+
+**Input**:*x,y (int)*.\
+**Output**: *Natijani chiqaring (int)*.
+
+|   **Input**   |    **Output**    |
+|---------------|------------------|
+|2  3           |60                |
+
+# Integer18
+
+Berilgan ifodaning natijasini chiqaring:  <img src="https://latex.codecogs.com/gif.latex?6x^{3}y^{5}+4x^{4}y^{3}-24xy"/>.
+(pow() funksiyasidan foydalaning).
+
+**Input**:*x,y (int)*.\
+**Output**: *Natijani chiqaring (int)*.
+
+|   **Input**   |    **Output**    |
+|---------------|------------------|
+|2  3           |13248             |
+
+# Integer19
+
+Uch xonali a butun son berilgan. Uning raqamlari yig'indisi va raqamlari ko'paytmasini toping.
+
+**Input**:*a (int)*.\
+**Output**: *Natijani chiqaring (int)*.
+
+|   **Input**   |    **Output**    |
+|---------------|------------------|
+|230            |5  0              |
+|241            |7  8              |
+
+# Integer20
+
+Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\(1\frac{2}{3}-3\frac{1}{4})"/>.
+Natijani absolyut qiymatini toping. (abs() funksiyasidan foydalaning).
+
+**Input**:*ifoda*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |    **Output**    |
+|---------------|------------------|
+|               |1.5833333333333333|
