@@ -50,7 +50,7 @@ Uch xonali a butun son berilgan, undan o’nlik xona birligidagi raqam bilan yuz
 
 # Integer05
 
-Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\9a^{2}b-27a^{2}b^{2}+15b^{2}"/>.\
+Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\9a^{2}b-27a^{2}b^{2}+15b^{2}"/>.
 Natijani 2 xona birlikda, yaxlitlang. (**round()** funksiyasidan foydalaning).
 
 **Input**:*a, b. (0<a<100 va 0<b<1000)*.\
@@ -63,7 +63,7 @@ Natijani 2 xona birlikda, yaxlitlang. (**round()** funksiyasidan foydalaning).
 
 # Integer06
 
-Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\frac{(1-\frac{r}{100})^{2}}{\sqrt{a^{2}-b^{2}}}"/>.\
+Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\frac{(1-\frac{r}{100})^{2}}{\sqrt{a^{2}-b^{2}}}"/>.
 
 **Input**:*r, n, a, b (0<r<1000,  0<n<1000,  0<a<1000 va 0<b<1000)*.\
 **Output**: *Natijani chiqaring (float)*.
@@ -76,7 +76,7 @@ Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\fr
 # Integer07
 
 x1, y1 va x2, y2 ikki nuqtaning  koordinatalari berilgan, ular orasidagi masofani ikki xona birlikda hisoblang.\
-Masofa ushbu formula  bo'yicha hisoblanadi:   <img src="https://latex.codecogs.com/gif.latex?\sqrt{(x2-x1)^{2}+(y2-y1)^{2}}"/>.\
+Masofa ushbu formula  bo'yicha hisoblanadi:   <img src="https://latex.codecogs.com/gif.latex?\sqrt{(x2-x1)^{2}+(y2-y1)^{2}}"/>.
 
 **Input**:*x1, y1, x2, y2  (float)*.\
 **Output**: *Natijani chiqaring (float)*.
@@ -90,7 +90,7 @@ Masofa ushbu formula  bo'yicha hisoblanadi:   <img src="https://latex.codecogs.c
 
 Uchburchakning uchta uchining koordinatalari berilgan: x1, y1, x2, y2, x3, y3 . Tekislikda ikki nuqta orasidagi masofani hisoblash formulasidan foydalanib, uning perimetri (P) va yuzini (S) , 2 xona birlikda hisoblang.\
 a, b, c tomonlari bo'lgan uchburchakning yuzini topish uchun Geron formulasidan foydalaning:   <img src="https://latex.codecogs.com/gif.latex?S=\sqrt{p(p-a)(p-b)(p-c)}"/>. bu yerda 
- p - yarim perimeter: <img src="https://latex.codecogs.com/gif.latex?p=\frac{a+b+c}{2}"/>\
+ p - yarim perimeter: .
 
 **Input**:*x1, y1, x2,  y2, x3, y3  (float)*.\
 **Output**: *Natijani chiqaring (float)*.
@@ -98,3 +98,39 @@ a, b, c tomonlari bo'lgan uchburchakning yuzini topish uchun Geron formulasidan 
 |        **Input**         |       **Output**     |
 |--------------------------|----------------------|
 |-9.7 -9.9 0.0 2.9 -0.1 5.2|36.26  11.79          |
+
+# Integer09
+
+Berilgan ifodani hisoblang:  <img src="https://latex.codecogs.com/gif.latex?x=\sin(a)"/>.
+
+**Input**:*a (float)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |    **Output**    |
+|---------------|------------------|
+|-0.5           |-0.479425538604203|
+
+# Integer10
+
+Berilgan ifodani hisoblang:  <img src="https://latex.codecogs.com/gif.latex?x=\cos(a)"/>.
+
+**Input**:*a (float)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |    **Output**    |
+|---------------|------------------|
+|-0.5           |0.8775825618903728|
+
+# Integer11
+
+Ikki xonali butun  son berilgan. Uning raqamlari yig'indisi va raqamlari ko'paytmasini toping.
+
+**Input**:*a (int)*.\
+**Output**: *Natijani chiqaring (int)*.
+
+|   **Input**   |    **Output**    |
+|---------------|------------------|
+|23             |5  6              |
+|21             |3  2              |
+|81             |9  8              |
+
