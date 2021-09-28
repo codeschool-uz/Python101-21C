@@ -90,7 +90,7 @@ Masofa ushbu formula  bo'yicha hisoblanadi:   <img src="https://latex.codecogs.c
 
 Uchburchakning uchta uchining koordinatalari berilgan: x1, y1, x2, y2, x3, y3 . Tekislikda ikki nuqta orasidagi masofani hisoblash formulasidan foydalanib, uning perimetri (P) va yuzini (S) , 2 xona birlikda hisoblang.\
 a, b, c tomonlari bo'lgan uchburchakning yuzini topish uchun Geron formulasidan foydalaning:   <img src="https://latex.codecogs.com/gif.latex?S=\sqrt{p(p-a)(p-b)(p-c)}"/>. bu yerda 
- p - yarim perimeter: .
+ p - yarim perimeter: <img src="https://latex.codecogs.com/gif.latex?\frac{(a+b+c)}{2}"/>.
 
 **Input**:*x1, y1, x2,  y2, x3, y3  (float)*.\
 **Output**: *Natijani chiqaring (float)*.
@@ -134,3 +134,45 @@ Ikki xonali butun  son berilgan. Uning raqamlari yig'indisi va raqamlari ko'payt
 |21             |3  2              |
 |81             |9  8              |
 
+# Integer12
+Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/gif.latex?\(2n+3)^{2}"/>. (**pow** funksiyasidan foydalaning).\
+
+**Input**:*n (int)*.\
+**Output**: *Natijani chiqaring (int)*.
+
+|   **Input**   |    **Output**    |
+|---------------|------------------|
+|12             |450               |
+
+
+# Integer13
+Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/gif.latex?\(\frac{3+n}{2})^{2}"/>. (**pow** funksiyasidan foydalaning).\
+
+**Input**:*n (int)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |    **Output**    |
+|---------------|------------------|
+|5              |16.0              |
+
+# Integer14
+Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/gif.latex?n^{x}+6^{x}"/>. (**pow** funksiyasidan foydalaning).\
+
+**Input**:*n,x (int)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |    **Output**    |
+|---------------|------------------|
+|4  2           |52                |
+
+# Integer15
+Berilgan sonning (*absolyut*) qiymatini toping. 
+(abs() funksiyasidan foydalaning )\
+
+**Input**:*n,x (int)*.\
+**Output**: *Natijani chiqaring (int)*.
+
+|   **Input**   |    **Output**    |
+|---------------|------------------|
+|-8             |8                 |
+|-56            |56                |
