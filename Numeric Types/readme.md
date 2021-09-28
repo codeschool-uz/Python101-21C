@@ -13,7 +13,7 @@ Berilgan ifodani hisoblang: - <img src="https://latex.codecogs.com/gif.latex?\sq
 
 # Integer02
 
-Berilgan ifodani hisoblang: - <img src="https://latex.codecogs.com/gif.latex? (\frac{1}{6}\sqrt{a} + \frac{1}{3}\sqrt{b})^{2}"/> .
+Berilgan ifodani hisoblang: - <img src="https://latex.codecogs.com/gif.latex?\(\frac{1}{6}\sqrt{a} + \frac{1}{3}\sqrt{b})^{2}"/> .
 
 
 **Input**:*a, b. (0<a<100 va 0<b<1000)*.\
