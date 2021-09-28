@@ -1,6 +1,6 @@
 # Integer01
 
-Berilgan ifodani hisoblang: - <img src="https://latex.codecogs.com/gif.latex?s=\sqrt{\sqrt{(a^{3}-b^{3})+(a^{3}+b^{3})}}" /> .
+Berilgan ifodani hisoblang: - <img src="https://latex.codecogs.com/gif.latex?\sqrt{\sqrt{(a^{3}-b^{3})+(a^{3}+b^{3})}}" /> .
 
 
 **Input**:*a, b. (0<a<100 va 0<b<1000)*.\
