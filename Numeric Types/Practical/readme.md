@@ -45,3 +45,26 @@ Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\sq
 |---------------|------------------|
 |2.3  0.55      |1.89              |
 |-0.3  8.5      |1.22              |
+
+# Integer25
+
+Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\sqrt[3]{sin(z+2)+2}" />. Natijani 2 hona birlikda yaxlitlang.
+
+**Input**:*z (float)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |   **Output**     |
+|---------------|------------------|
+|3.14159        |1.03              |
+|0.5            |1.37              |
+
+# Integer26
+
+Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\sqrt{e^{x}+\frac{a}{x^{2}+2}}" />.
+
+**Input**:*a, x (float)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |   **Output**     |
+|---------------|------------------|
+|-0.23  3.5     |1.580961371597257 |
