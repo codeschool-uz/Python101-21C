@@ -43,5 +43,5 @@ Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\sq
 
 |   **Input**   |   **Output**     |
 |---------------|------------------|
-|2.3  0.55      |1.8877695796236125|
-|-0.3  8.5      |1.2247868679240703|
+|2.3  0.55      |1.89              |
+|-0.3  8.5      |1.22              |
