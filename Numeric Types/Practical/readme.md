@@ -21,3 +21,15 @@ Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\2\
 |---------------|-----------------|
 |0.22           |1.839            |
 |5.5            |-0.531           |
+
+# Integer23
+
+Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\frac{1}{3}+\cos^{2}(y+x^{2})" />. Natijani 2 hona birlikda yaxlitlang.
+
+**Input**:*x, y (float)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|1.5  6.2       |0.65             |
+|0.34  7.1      |0.69             |
