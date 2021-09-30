@@ -19,8 +19,8 @@ Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\2\
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|0.22           |1.839            |
-|5.5            |-0.531           |
+|0.22           |-8.94            |
+|5.5            |2.01             |
 
 # Integer23
 
@@ -67,7 +67,7 @@ Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\sq
 
 |   **Input**   |   **Output**     |
 |---------------|------------------|
-|-0.23  3.5     |1.580961371597257 |
+|-0.23  3.5     |3.015619564021628 |
 
 # Integer27
 
@@ -78,8 +78,8 @@ Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\sq
 
 |   **Input**   |   **Output**     |
 |---------------|------------------|
-|34             |4.06              |
-|1.2            |0.77              |
+|34             |3.96              |
+|1.2            |1.03              |
 
 # Integer28
 
