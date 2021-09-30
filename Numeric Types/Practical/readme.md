@@ -68,3 +68,75 @@ Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\sq
 |   **Input**   |   **Output**     |
 |---------------|------------------|
 |-0.23  3.5     |1.580961371597257 |
+
+# Integer27
+
+Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\sqrt{2tg(x+2)-cos(x+2^{x})}" />. Natijani 2 hona birlikda yaxlitlang.
+
+**Input**:*x (float)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |   **Output**     |
+|---------------|------------------|
+|34             |4.06              |
+|1.2            |0.77              |
+
+# Integer28
+
+besh honali N butun son berilgan. Sonning har bir raqamining kvadrati yig'indisini toping.
+
+**Input**:*N (float)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |   **Output**     |
+|---------------|------------------|
+|4323           |38                |
+|3212           |18                |
+
+# Integer29
+
+To'rt honali N butun son berilgan. Sonning har bir raqamini kvadratga aylantiradigan dastur tuzing(N sonining raqmlari 0 < N < 3 oraliqda).
+
+**Input**:*N (float)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |   **Output**     |
+|---------------|------------------|
+|1003           |1009              |
+|3212           |9414              |
+
+# Integer30
+
+To'rt honali N butun son berilgan. Sonning har bir raqamiga 5 ni qo'shib natijani chiqaring(N sonining raqmlari 0 < N < 4 oraliqda).
+
+**Input**:*N (float)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |   **Output**     |
+|---------------|------------------|
+|1423           |6978              |
+|3212           |8767              |
+
+# Integer31
+
+To'rt honali N butun son berilgan. Sonning har bir raqamiga 5 ni qo'shib natijani chiqaring(N sonining raqmlari 0 < N < 4 oraliqda).
+
+**Input**:*N (float)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |   **Output**     |
+|---------------|------------------|
+|1423           |6978              |
+|3212           |8767              |
+
+# Integer32
+
+Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\sqrt{\sqrt{x+2}+\sqrt{x+24}+x^{5}}" />. Natijani 2 hona birlikda yaxlitlang.
+
+**Input**:*x (float)*.\
+**Output**: *Natijani chiqaring (float)*.
+
+|   **Input**   |   **Output**     |
+|---------------|------------------|
+|5.2            |61.73             |
+|0.78           |2.63              |
