@@ -63,7 +63,7 @@ Natijani 2 xona birlikda, yaxlitlang. (**round()** funksiyasidan foydalaning).
 
 # Integer06
 
-Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\frac{(1-\frac{r}{100})^{2}}{\sqrt{a^{2}-b^{2}}}"/>.
+Berilgan ifodani hisoblang:   <img src="https://latex.codecogs.com/gif.latex?\frac{(1-\frac{r}{100})^{n}}{\sqrt{a^{2}+b^{2}}}"/>.
 
 **Input**:*r, n, a, b (0<r<1000,  0<n<1000,  0<a<1000 va 0<b<1000)*.\
 **Output**: *Natijani chiqaring (float)*.
@@ -135,7 +135,7 @@ Ikki xonali butun  son berilgan. Uning raqamlari yig'indisi va raqamlari ko'payt
 |81             |9  8              |
 
 # Integer12
-Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/gif.latex?\(2n+3)^{2}"/>. (**pow** funksiyasidan foydalaning).
+Berilgan ifodaning natijasini chiqaring.  <img src="https://latex.codecogs.com/gif.latex?\2(n+3)^{2}"/>. (**pow** funksiyasidan foydalaning).
 
 **Input**:*n (int)*.\
 **Output**: *Natijani chiqaring (int)*.
