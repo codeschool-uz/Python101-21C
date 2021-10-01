@@ -107,7 +107,7 @@
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|               |      |
+|               |                 |
 
 # def10
 
@@ -118,5 +118,83 @@
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|               |      |
+|               |                 |
 
+# PYTHON FUNCTION ARGUMENTS
+
+# def11
+
+Ikki xonali butun  son berilgan. Uning raqamlari yig'indisi toping.
+
+**Input**:*a. (1<a<100)*.\
+**Output**: *int*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|10             |1                |
+
+# def12
+
+Ikki xonali butun  son berilgan. Uning raqamlari ko'paytmasini toping.
+
+**Input**:*a. (1<a<100)*.\
+**Output**: *int*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|11             |1                |
+
+# def13
+
+Besh xonali butun son berilgan. Uning raqamlari yig'indisi toping.
+
+**Input**:*a. (1<a<100)*.\
+**Output**: *int*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2315           |11               |
+
+# def14
+
+Besh xonali butun son berilgan. Uning raqamlari ko'paytmasini toping.
+
+**Input**:*a. (1<a<100)*.\
+**Output**: *int*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2315           |30               |
+
+# def15
+
+Besh xonali butun son berilgan. Uning juft raqamlari sonin toping.
+
+**Input**:*n. (1<a<100)*.\
+**Output**: *int*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|1234           |2                |
+
+# def16
+
+Besh xonali butun son berilgan. Uning toq raqamlari sonin toping.
+
+**Input**:*n. (1<a<100)*.\
+**Output**: *int*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|1165           |3                |
+
+# def17
+
+uch xonali butun son berilgan. Uning juft raqamlari yig’indisin toping.
+
+**Input**:*n. (1<a<100)*.\
+**Output**: *int*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|672            |8                |
