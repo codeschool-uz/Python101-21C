@@ -1,2 +1,2 @@
-def check_to_digits_1(a,b):
+def check_to_digits(a,b):
 	return 0

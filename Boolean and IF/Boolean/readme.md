@@ -83,7 +83,7 @@ Uchta **a, b, c** butun sonlari berilgan, quydagi iborani tekshiring "b soni a v
 
 # bool08
 
-Uchta **a, b** butun sonlari berilgan, quydagi iborani tekshiring "Ikkala a va b sonlari musbat".
+**a, b** butun sonlari berilgan, quydagi iborani tekshiring "Ikkala a va b sonlari musbat".
 
 **Input**:*a,b. (Butun son)*.
 **Output**: *bool*.
@@ -96,7 +96,7 @@ Uchta **a, b** butun sonlari berilgan, quydagi iborani tekshiring "Ikkala a va b
 
 # bool09
 
-Uchta **a, b** butun sonlari berilgan, quydagi iborani tekshiring "Ikkala a va b sonlari manfiy".
+**a, b** butun sonlari berilgan, quydagi iborani tekshiring "Ikkala a va b sonlari manfiy".
 
 **Input**:*a,b. (Butun son)*.
 **Output**: *bool*.
