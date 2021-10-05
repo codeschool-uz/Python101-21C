@@ -119,3 +119,68 @@ Uchta **a, b** butun sonlari berilgan, quydagi iborani tekshiring "Ikkala a va b
 |4  8           |True             |
 |3  12          |False            |
 |3  1           |False            |
+
+# bool11
+
+Ikki honali **n** butun soni berilgan, raqamlari yig'indisi toq bo'lsa *True* juft bo'lsa *False* qaytaradigan dastur tuzing.
+
+**Input**:*n. (Butun son)*.
+**Output**: *bool*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|45             |True             |
+|26             |False            |
+|38             |True             |
+
+# bool12
+
+Ikki honali **n** butun soni berilgan, raqamlari yig'indisi juft bo'lsa *True* toq bo'lsa *False* qaytaradigan dastur tuzing.
+
+**Input**:*n. (Butun son)*.
+**Output**: *bool*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|45             |False            |
+|26             |True             |
+|38             |False            |
+
+# bool13
+
+Ikki honali **n** butun soni berilgan, raqamlari yig'indisi ikki honali bo'lsa *True* aks holda *False* qaytaradigan dastur tuzing.
+
+**Input**:*n. (Butun son)*.
+**Output**: *bool*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|45             |False            |
+|46             |True             |
+|55             |Ture             |
+
+# bool14
+
+Uch honali **n** butun soni berilgan, raqamlari yig'indisi ikki honali bo'lsa *True* aks holda *False* qaytaradigan dastur tuzing.
+
+**Input**:*n. (Butun son)*.
+**Output**: *bool*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|441            |False            |
+|911            |True             |
+|327            |Ture             |
+
+# bool15
+
+Besh honali **n** butun soni berilgan, raqamlari yig'indisi toq son bo'lsa *True* aks holda *False* qaytaradigan dastur tuzing.
+
+**Input**:*n. (Butun son)*.
+**Output**: *bool*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|44123          |False            |
+|67842          |True             |
+|53327          |False            |
