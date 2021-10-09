@@ -158,7 +158,7 @@ Temp 1-10: "Very Cold"\
 Temp 11-20: "Cold"\
 Temp 21-30: "Normal"\
 Temp 31-40: "Hot"\
-Temp >40: "Very Hot"\
+Temp >40: "Very Hot"
 
 **Input**:*Temp. (int)*.\
 **Output**: *Natijani chiqaring*.
@@ -177,7 +177,7 @@ Temp >40: "Very Hot"\
 "musbat juft son"\
 "manfiy toq son"\
 "manfiy juft son"\
-"son 0 ga teng"\
+"son 0 ga teng"
 
 Kiritilgan sonning qanday sonligini yozuv bilan chiqaring.
 
@@ -197,7 +197,7 @@ Kiritilgan sonning qanday sonligini yozuv bilan chiqaring.
 "Ikki xonali toq son"\
 "Ikki xonali juft son"\
 "Uch xonali toq son”"\
-"Uch xonali juft son"\
+"Uch xonali juft son"
 
 Kiritilgan sonning qanday sonligini yozuv bilan chiqaring.
 
@@ -211,10 +211,10 @@ Kiritilgan sonning qanday sonligini yozuv bilan chiqaring.
 
 # if11
 
-Do'konchi biron kishiga daftar berish yoki bermaslik kerakligini aniqlash uchun dastur yozmoqchi. Do'konchi daftarga yetarli puli borlarga va tanaffusda bo`lganlarga Daftar beradi.
+Do'konchi biron kishiga daftar berish yoki bermaslik kerakligini aniqlash uchun dastur yozmoqchi. Do'konchi daftarga yetarli puli borlarga va tanaffusda bo'lganlarga Daftar beradi.
 
 Shaxsning pulini va tanaffus vaqtini hisobga olgan holda unga daftar berish kerakmi yo'qmi aniqlaydigan dastur tuzing.
-*Tanaffusda bo`lgandagi qiymati 1 ga tanaffusda bo`lmasa 0 ga teng. Daftarning narhi: 20 (UZS).*
+*Tanaffusda bo'lgandagi qiymati 1 ga tanaffusda bo`lmasa 0 ga teng. Daftarning narhi: 20 (UZS).*
 
 
 **Input**:*price, on_break. (butun,0 yoki 1)*.\
