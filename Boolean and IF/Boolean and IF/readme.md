@@ -139,7 +139,7 @@ Ikkita **a** va **b** butun sonlari berilgan, quydagi iborani tekshiring "Ikkala
 **a**, **b**, **c**kesmalar berilgan. Uchburchak yasash mumkinligiga tekshiring.
 Agar mumkin bolsa “Yes” aks holda “No” javob qaytarsin.\
 
-Uchburchak yasash sharti: Ixtiyoriy 2 ta tomonning yig`indisi qolgan 3-tomondan katta bo`lishi kerak.
+Uchburchak yasash sharti: Ixtiyoriy 2 ta tomonning yig'indisi qolgan 3-tomondan katta bo'lishi kerak.
 
 **Input**:*a, b, c. (int)*.\
 **Output**: *Yes yoki No (string)*.
@@ -153,12 +153,12 @@ Uchburchak yasash sharti: Ixtiyoriy 2 ta tomonning yig`indisi qolgan 3-tomondan 
 
 Sizga harorat selsiyda berilgan quyidagi harorat holatiga muvofiq habarni ko`rsating:
 
-Temp<0: "Freezing"
-Temp 1-10: "Very Cold"
-Temp 11-20: "Cold"
-Temp 21-30: "Normal"
-Temp 31-40: "Hot"
-Temp >40: "Very Hot"
+Temp<0: "Freezing"\
+Temp 1-10: "Very Cold"\
+Temp 11-20: "Cold"\
+Temp 21-30: "Normal"\
+Temp 31-40: "Hot"\
+Temp >40: "Very Hot"\
 
 **Input**:*Temp. (int)*.\
 **Output**: *Natijani chiqaring*.
@@ -173,11 +173,11 @@ Temp >40: "Very Hot"
 
 **a** butun son berilgan. Ushbu sonni quyidagi shartlarga tekshiring:
 
-"musbat toq son" 
-"musbat juft son"
-"manfiy toq son"
-"manfiy juft son"
-"son 0 ga teng"
+"musbat toq son"\
+"musbat juft son"\
+"manfiy toq son"\
+"manfiy juft son"\
+"son 0 ga teng"\
 
 Kiritilgan sonning qanday sonligini yozuv bilan chiqaring.
 
@@ -194,10 +194,10 @@ Kiritilgan sonning qanday sonligini yozuv bilan chiqaring.
 
 **a** butun son berilgan. Ushbu sonni quyidagi shartlarga tekshiring:
 
-"Ikki xonali toq son" 
-"Ikki xonali juft son"
-"Uch xonali toq son”"
-"Uch xonali juft son"
+"Ikki xonali toq son"\
+"Ikki xonali juft son"\
+"Uch xonali toq son”"\
+"Uch xonali juft son"\
 
 Kiritilgan sonning qanday sonligini yozuv bilan chiqaring.
 
@@ -211,9 +211,9 @@ Kiritilgan sonning qanday sonligini yozuv bilan chiqaring.
 
 # if11
 
-Do`konchi biron kishiga daftar berish yoki bermaslik kerakligini aniqlash uchun dastur yozmoqchi. Do`konchi daftarga yetarli puli borlarga va tanaffusda bo`lganlarga Daftar beradi.
+Do'konchi biron kishiga daftar berish yoki bermaslik kerakligini aniqlash uchun dastur yozmoqchi. Do'konchi daftarga yetarli puli borlarga va tanaffusda bo`lganlarga Daftar beradi.
 
-Shaxsning pulini va tanaffus vaqtini hisobga olgan holda unga daftar berish kerakmi yo`qmi aniqlaydigan dastur tuzing.
+Shaxsning pulini va tanaffus vaqtini hisobga olgan holda unga daftar berish kerakmi yo'qmi aniqlaydigan dastur tuzing.
 *Tanaffusda bo`lgandagi qiymati 1 ga tanaffusda bo`lmasa 0 ga teng. Daftarning narhi: 20 (UZS).*
 
 
@@ -227,7 +227,7 @@ Shaxsning pulini va tanaffus vaqtini hisobga olgan holda unga daftar berish kera
 
 # if12
 
-n  ikki xonali son berilgan uning raqamlar joyini almashtirganda hosil bo`lgan son n sonidan kichik yoki teng bo`lsa True aks holda False qaytaradigan dastur tuzing.
+n  ikki xonali son berilgan uning raqamlar joyini almashtirganda hosil bo'lgan son n sonidan kichik yoki teng bo'lsa True aks holda False qaytaradigan dastur tuzing.
 
 **Input**:*n, (int)*.\
 **Output**: *Natijani chiqaring*.
