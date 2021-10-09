@@ -136,7 +136,7 @@ Ikkita **a** va **b** butun sonlari berilgan, quydagi iborani tekshiring "Ikkala
 
 # if07
 
-**x** haqiqiy son berilgan. Quyidagi funksiyani hisoblang..
+**x** haqiqiy son berilgan. Quyidagi funksiyani hisoblang.\
 <img src="https://latex.codecogs.com/gif.latex?\left\{\begin{matrix}2*\sin(x), agar\rightarrow x>0;\\ x-6,agar\rightarrow x\leq 0;\end{matrix}\right." />.
 
 **Input**:*x. (float)*.\
